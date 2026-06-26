@@ -1,0 +1,10 @@
+name: domain-checker
+version: 1.0.0
+description: Check domain availability via DNS resolution. Works on Windows PowerShell. Returns "available" if no DNS record exists, "taken" if DNS resolves.
+author: apm
+license: MIT
+type: skill
+
+dependencies:
+  apm: []
+  mcp: []
